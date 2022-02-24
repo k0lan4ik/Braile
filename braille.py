@@ -208,7 +208,7 @@ class Braille():
             print(self.ser.readline().decode("utf-8"))
 
 
-# abcdefghijklmnopqrstuvxyz
+# abcdefghijklmnopqrstuvxyzйцукенгшщзхъэждлоррпавыфясчмитьбю
 
 
 
